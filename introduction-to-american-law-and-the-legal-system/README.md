@@ -1,0 +1,30 @@
+# Introduction to the Law and Legal Systems
+
+<figure><img src="../.gitbook/assets/800px-US_Supreme_Court_-_corrected.jpg" alt="Picture of the front facade of the United States Supreme Court building in Washington D.C." width="563"><figcaption><p>"US Supreme Court" by <a href="https://commons.wikimedia.org/wiki/File:US_Supreme_Court_-_corrected.jpg">Jarek Tuszyński</a> is licensed CC BY-SA 3.0)</p></figcaption></figure>
+
+{% hint style="success" %}
+#### LEARING OBJECITVES
+
+1. Understand the various functions of the American legal system.
+2. Describe the foundation and sources that establish American law.
+3. Describe the types of modern legal systems in the world.
+4. Explain the primary sources of law in the United States.
+{% endhint %}
+
+## Contents
+
+{% content-ref url="1.1-the-relationship-between-business-and-law.md" %}
+[1.1-the-relationship-between-business-and-law.md](1.1-the-relationship-between-business-and-law.md)
+{% endcontent-ref %}
+
+{% content-ref url="2.2-law-and-its-functions.md" %}
+[2.2-law-and-its-functions.md](2.2-law-and-its-functions.md)
+{% endcontent-ref %}
+
+{% content-ref url="2.3-modern-legal-systems-of-the-world.md" %}
+[2.3-modern-legal-systems-of-the-world.md](2.3-modern-legal-systems-of-the-world.md)
+{% endcontent-ref %}
+
+{% content-ref url="1-assessment-questions.md" %}
+[1-assessment-questions.md](1-assessment-questions.md)
+{% endcontent-ref %}
