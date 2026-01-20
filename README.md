@@ -40,7 +40,7 @@ Click on any unit, chapter, and/or section to view its content. Scroll down to r
 
 #### Interactive Elements
 
-Engage with any interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets,](#user-content-fn-4)[^4] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with any interactive elements such as links, annotations, [expandable widgets,](#user-content-fn-4)[^4] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
