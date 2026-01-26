@@ -14,11 +14,13 @@ This book [openly licensed](#user-content-fn-2)[^2] and free to be reused, redis
 
 {% stepper %}
 {% step %}
-### [front-matter.md](front-matter.md "mention")
+{% content-ref url="front-matter.md" %}
+[front-matter.md](front-matter.md)
+{% endcontent-ref %}
 {% endstep %}
 
 {% step %}
-### [introduction-to-american-law-and-the-legal-system](introduction-to-american-law-and-the-legal-system/ "mention")
+
 {% endstep %}
 
 {% step %}

@@ -13,18 +13,40 @@
 
 ## Contents
 
+{% stepper %}
+{% step %}
 {% content-ref url="1.1-the-relationship-between-business-and-law.md" %}
 [1.1-the-relationship-between-business-and-law.md](1.1-the-relationship-between-business-and-law.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
 {% content-ref url="2.2-law-and-its-functions.md" %}
 [2.2-law-and-its-functions.md](2.2-law-and-its-functions.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
 {% content-ref url="2.3-modern-legal-systems-of-the-world.md" %}
 [2.3-modern-legal-systems-of-the-world.md](2.3-modern-legal-systems-of-the-world.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
+{% content-ref url="sources-of-law.md" %}
+[sources-of-law.md](sources-of-law.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="important-business-laws-and-regulations.md" %}
+[important-business-laws-and-regulations.md](important-business-laws-and-regulations.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
 {% content-ref url="1-assessment-questions.md" %}
 [1-assessment-questions.md](1-assessment-questions.md)
 {% endcontent-ref %}
+{% endstep %}
+{% endstepper %}
