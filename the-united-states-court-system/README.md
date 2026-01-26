@@ -17,18 +17,28 @@
 
 ## Contents
 
+{% stepper %}
+{% step %}
 {% content-ref url="introduction.md" %}
 [introduction.md](introduction.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
 {% content-ref url="separation-of-powers.md" %}
 [separation-of-powers.md](separation-of-powers.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
 {% content-ref url="federalism.md" %}
 [federalism.md](federalism.md)
 {% endcontent-ref %}
+{% endstep %}
 
+{% step %}
 {% content-ref url="trial-and-appellate-courts.md" %}
 [trial-and-appellate-courts.md](trial-and-appellate-courts.md)
 {% endcontent-ref %}
+{% endstep %}
+{% endstepper %}
