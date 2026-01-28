@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Affirmative Defenses to Breach Claims
 
 **Affirmative defenses** are "legal" defense&#x73;**, which** are distinct from "factual" defenses. A factual defense involves the defendant presenting evidence to establish that they did not commit the actions that the plaintiff alleges. In an **affirmative defense**, the defendant argues that they are not liable, _even if they committed the alleged acts_ (such as breaching contractual terms), based on an established legal principle. (For example, an affirmative defense in criminal and tort law that is familiar to much of the general public is self-defense, which is discussed in another section.)
