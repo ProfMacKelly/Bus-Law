@@ -26,18 +26,4 @@
 [contract-elements](contract-elements/)
 {% endcontent-ref %}
 {% endstep %}
-
-{% step %}
-{% content-ref url="contract-classifications.md" %}
-[contract-classifications.md](contract-classifications.md)
-{% endcontent-ref %}
-{% endstep %}
-
-{% step %}
-{% content-ref url="affirmative-defenses-to-breach-claims.md" %}
-[affirmative-defenses-to-breach-claims.md](affirmative-defenses-to-breach-claims.md)
-{% endcontent-ref %}
-
-
-{% endstep %}
 {% endstepper %}

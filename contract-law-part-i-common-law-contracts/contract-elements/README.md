@@ -12,12 +12,6 @@
 [the-offer.md](the-offer.md)
 {% endcontent-ref %}
 {% endstep %}
-
-{% step %}
-{% content-ref url="../affirmative-defenses-to-breach-claims.md" %}
-[affirmative-defenses-to-breach-claims.md](../affirmative-defenses-to-breach-claims.md)
-{% endcontent-ref %}
-{% endstep %}
 {% endstepper %}
 
 <details>
